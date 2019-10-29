@@ -1,0 +1,9 @@
+mnt/
+notebooks/
+catboost_info/
+tags*
+*__pycache__*
+
+tools/utils/rxrx1-utils/
+
+notebooks/.ipynb_checkpoints/

@@ -1,0 +1,3 @@
+TalkingData Fraud Detection
+・リクルートコミュニケーション社員記事
+https://www.rco.recruit.co.jp/career/engineer/blog/kaggle_talkingdata_advanced/
