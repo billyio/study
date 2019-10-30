@@ -1,6 +1,6 @@
 TTA (Test Time Augmentation)
 
-学習時ではなく推論時にもAugmentationを行うことで、推論の精度を上げる手法
+学習時ではなく推論時にもAugmentationを行い、推論の精度を上げる手法
 
 tta_steps = 10
 predictions = []
