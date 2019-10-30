@@ -1,8 +1,9 @@
-/abe
-/example
-/nuero
-/kaggle
-/rakus
-/python
-/shellscript
+abe/
+example/
+nuero/
+kaggle/
+rakus/
+python/
+shellscript/
+
 .gitignore
